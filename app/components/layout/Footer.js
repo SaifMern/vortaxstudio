@@ -25,10 +25,10 @@ const footerLinks = {
 };
 
 const socialLinks = [
-  { icon: Github, href: 'https://github.com', label: 'GitHub' },
-  { icon: Twitter, href: 'https://twitter.com', label: 'Twitter' },
-  { icon: Linkedin, href: 'https://linkedin.com', label: 'LinkedIn' },
-  { icon: Instagram, href: 'https://instagram.com', label: 'Instagram' },
+  //{ icon: Github, href: 'https://github.com', label: 'GitHub' },
+  //{ icon: Twitter, href: 'https://twitter.com', label: 'Twitter' },
+  { icon: Linkedin, href: 'https://www.linkedin.com/in/saif-ur-rehman-b95b45376?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app', label: 'LinkedIn' },
+  { icon: Instagram, href: 'https://www.instagram.com/vorta_xstudio?igsh=MTgxbDY5c2k3aDRwMg==', label: 'Instagram' },
 ];
 
 export default function Footer() {
