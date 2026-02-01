@@ -1,5 +1,5 @@
 {
-  "name": "agency-website",
+  "name": "Vortax Studio",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,6 +8,10 @@
     "start": "next start"
   },
   "dependencies": {
+    "@emailjs/browser": "^4.4.1",
+    "@splinetool/react-spline": "^4.1.0",
+    "framer-motion": "^12.27.5",
+    "lucide-react": "^0.562.0",
     "next": "16.1.4",
     "react": "19.2.3",
     "react-dom": "19.2.3"
